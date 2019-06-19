@@ -1,6 +1,6 @@
 Bioinformatics 2019
 
-by Abhi
+by Abhi + Laura
 
 #Abstract
 #Research q
